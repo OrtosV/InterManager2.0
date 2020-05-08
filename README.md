@@ -1,1 +1,1 @@
-InterManager2.0
+Проект "InterManager"
